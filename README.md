@@ -13,7 +13,7 @@ posterior, ya tendriamos descargado el proyecto en nuestro equipo, procederiamos
 ```
 cd portScannerBash
 ```
-Y listo! ya tendriamos nuestra herramienta descaargada en el equipo!
+Y listo! ya tendriamos nuestra herramienta descargada en el equipo!
 
 # COMO EJECUTAR
 El modo de uso es muy sencillo, debido a que tiene el shebang, se puede ejecutar desde la terminal, con el siguiente comando:

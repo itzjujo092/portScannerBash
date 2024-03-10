@@ -1,7 +1,8 @@
 # portScanner
 Una herramienta programada en Bash para el escaneo de puertos en la red.
 
-![image](https://github.com/itzjujo092/hostScannerLocal/assets/74797604/4e1b6591-b430-4589-8240-04368b015c17)
+![image](https://github.com/itzjujo092/portScannerBash/assets/74797604/7723cf3f-1a52-4aef-8158-33fef550cb14)
+
 
 # COMO DESCARGAR
 Como primer paso procederemos a clonar el repositorio en nuestro equipo, para eso, vamos hacer el siguiente comando en nuestra terminal linux
